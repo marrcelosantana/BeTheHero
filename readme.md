@@ -14,7 +14,6 @@
 
 ### Mobile
 
-
 Tela 1             |  Tela 2            | Tela 3
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src= "./prints/tela-mob-intro.png">  |  <img src= "./prints/tela-mob-welcome.png">  | <img src="./prints/tela-mob-case.png">
